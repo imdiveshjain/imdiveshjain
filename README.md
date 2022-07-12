@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @imdiveshjain
 - 👀 I’m interested in coding..
-- 🌱 I’m currently learning FSWD
 - 💞️ I’m looking to collaborate on ...
 - 📫 You can contact me on 9320822040 or on instagram as  @imdiveshjain
 
