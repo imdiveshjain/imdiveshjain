@@ -6,11 +6,6 @@
         </a>    
     </a>
 </div>
-<div align="center">
-    <a href="https://www.instagram.com/itzzz_divesh?igsh=aXZ4Y3FzN256Y3du">
-        <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-    </a>
-</div>
 
 
 - 👋 Hi, I’m @imdiveshjain
