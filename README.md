@@ -6,7 +6,7 @@
     <a href="https://www.facebook.com/imdiveshjain?mibextid=ZbWKwL">
         <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
         <div align="center">
-    <a href="https://www.twitter.com/[YourTwitter]/">
+    <a href="https://x.com/imdiveshjain?t=sKkixrV7T_GqgVK3hQwSfg&s=09">
         <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
     </a>
 </div>
