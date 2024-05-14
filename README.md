@@ -1,5 +1,5 @@
 <div align="center">
-    <a href="[https://www.linkedin.com/in/[YourLinkedIn]/](https://www.linkedin.com/in/divesh-jain-72a879202/)">
+    <a href="https://www.linkedin.com/in/divesh-jain-72a879202/">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
     </a>
 </div>
