@@ -57,6 +57,30 @@
 </body>
 </html>
 
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Profile Visit Counter</title>
+</head>
+<body>
+    <h1>Profile Visit Counter</h1>
+    <p id="visitCount">Loading...</p>
+
+    <script>
+        // Fetch visit count from backend
+        fetch('http://127.0.0.1:5000', { method: 'GET' })
+            .then(response => response.json())
+            .then(data => {
+                // Update the visit count on the page
+                document.getElementById('visitCount').textContent = `Profile visits: ${data.count}`;
+            })
+            .catch(error => console.error('Error:', error));
+    </script>
+</body>
+</html>
+
 
 <!---
 imdiveshjain/imdiveshjain is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
