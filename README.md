@@ -12,7 +12,7 @@
 </div>
 
 
-- 👋 Hi, I’m @imdiveshjain
+- 👋 Hi, I’m Divesh Jain
 - 👀 I’m interested in coding..
 - 💞️ I’m looking to collaborate on ...
 - 📫 You can contact me on 9320822040 or on instagram as  @imdiveshjain
