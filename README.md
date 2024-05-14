@@ -1,3 +1,10 @@
+<div align="center">
+    <p>
+        <img src="https://media1.tenor.com/images/08d247bf9f143cc33a18fae1cce2f10d/tenor.gif?itemid=10623533" alt="Descriptive Text for the GIF" />
+    </p>
+</div>
+
+
 - 👋 Hi, I’m @imdiveshjain
 - 👀 I’m interested in coding..
 - 💞️ I’m looking to collaborate on ...
