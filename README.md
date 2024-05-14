@@ -3,6 +3,72 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 20px;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+        }
+        .header {
+            text-align: center;
+            margin-bottom: 20px;
+        }
+        .header h1 {
+            margin: 0;
+            font-size: 36px;
+        }
+        .header h1 span {
+            margin-right: 10px;
+        }
+        .description {
+            font-size: 20px;
+            margin-bottom: 20px;
+            text-align: center;
+        }
+        .content {
+            display: flex;
+            align-items: center;
+            gap: 20px;
+        }
+        .about-me {
+            max-width: 400px;
+        }
+        .about-me p {
+            margin: 10px 0;
+        }
+        .about-me p a {
+            color: #0077B5;
+            text-decoration: none;
+        }
+        .about-me p a:hover {
+            text-decoration: underline;
+        }
+        .about-me p span {
+            font-weight: bold;
+        }
+        .tools {
+            margin-top: 20px;
+        }
+        .tools img {
+            margin: 5px;
+        }
+        .illustration {
+            max-width: 400px;
+        }
+        .illustration img {
+            width: 100%;
+            height: auto;
+        }
+        .social-media {
+            text-align: center;
+            margin-top: 20px;
+        }
+        .social-media a {
+            margin: 0 10px;
+        }
+    </style>
 </head>
 <body>
     <div class="header">
@@ -29,21 +95,27 @@
                 <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white" alt="Visual Studio"/>
                 <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white" alt="Eclipse"/>
                 <img src="https://img.shields.io/badge/Git_Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Git Bash"/>
-
             </div>
         </div> 
-        <div class="illustration">
-            <img src="https://example.com/your-image.png" alt="Illustration"/>
-        </div>
+    </div>
+    <div class="social-media">
+        <h2>My Social Media Handles:</h2>
+        <a href="https://www.linkedin.com/in/divesh-jain-72a879202/">
+            <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+        </a>
+        <a href="https://www.instagram.com/itzzz_divesh?igsh=aXZ4Y3FzN256Y3du">
+            <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+        </a>
+        <a href="https://www.facebook.com/imdiveshjain?mibextid=ZbWKwL">
+            <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
+        </a>
+        <a href="https://x.com/imdiveshjain?t=sKkixrV7T_GqgVK3hQwSfg&s=09">
+            <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
+        </a>
     </div>
 </body>
 </html>
 
-
-- 👋 Hi, I’m Divesh Jain
-- 👀 I’m interested in coding..
-- 💞️ I’m looking to collaborate on ...
-- 📫 You can contact me on 9320822040 or on instagram as  @imdiveshjain
 
 <!---
 imdiveshjain/imdiveshjain is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
