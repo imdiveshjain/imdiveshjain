@@ -11,8 +11,6 @@
     </a>
 </div>
 
-    </a>
-
 
 - 👋 Hi, I’m @imdiveshjain
 - 👀 I’m interested in coding..
