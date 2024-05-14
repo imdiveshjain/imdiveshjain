@@ -31,7 +31,7 @@
                 <img src="https://img.shields.io/badge/Git_Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Git Bash"/>
 
             </div>
-        </div>
+        </div> 
         <div class="illustration">
             <img src="https://example.com/your-image.png" alt="Illustration"/>
         </div>
