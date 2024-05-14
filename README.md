@@ -15,7 +15,7 @@
     <div class="content">
         <div class="about-me">
             <h2>About Me:</h2>
-            <p>🌱 I’m currently trying to excel <span>Python</span></p>
+            <p>🌱 I’m currently trying to master <span>Python</span></p>
             <p>🔒 A small look in to my life is available <a href="https://64808c7b41d21.site123.me/">Here</a></p>
             <p>📫 How to reach me <a href="mailto:diveshjain745@gmail.com">MAIL</a></p>
             <div class="tools">
