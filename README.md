@@ -7,11 +7,6 @@
     <a href="https://www.facebook.com/imdiveshjain?mibextid=ZbWKwL">
         <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
     </a>
-</div>
-
-        </a>    
-    </a>
-</div>
 
 
 - 👋 Hi, I’m @imdiveshjain
