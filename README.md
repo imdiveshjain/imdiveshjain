@@ -1,7 +1,7 @@
 <div align="center">
-    <p>
-        <img src="https://media1.tenor.com/images/08d247bf9f143cc33a18fae1cce2f10d/tenor.gif?itemid=10623533" alt="Descriptive Text for the GIF" />
-    </p>
+    <a href="[https://www.linkedin.com/in/[YourLinkedIn]/](https://www.linkedin.com/in/divesh-jain-72a879202/)">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    </a>
 </div>
 
 
