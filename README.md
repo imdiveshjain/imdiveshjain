@@ -1,13 +1,16 @@
 <div align="center">
     <a href="https://www.linkedin.com/in/divesh-jain-72a879202/">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-        <a href="https://www.instagram.com/itzzz_divesh?igsh=aXZ4Y3FzN256Y3du">
+    </a>
+    <a href="https://www.instagram.com/itzzz_divesh?igsh=aXZ4Y3FzN256Y3du">
         <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+    </a>
     <a href="https://www.facebook.com/imdiveshjain?mibextid=ZbWKwL">
         <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
-        <div align="center">
+    </a>
     <a href="https://x.com/imdiveshjain?t=sKkixrV7T_GqgVK3hQwSfg&s=09">
-<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>    </a>
+        <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/>
+    </a>
 </div>
 
 
