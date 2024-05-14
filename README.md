@@ -4,65 +4,6 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Profile</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            margin: 20px;
-            display: flex;
-            flex-direction: column;
-            align-items: center;
-        }
-        .header {
-            text-align: center;
-            margin-bottom: 20px;
-        }
-        .header h1 {
-            margin: 0;
-            font-size: 36px;
-        }
-        .header h1 span {
-            margin-right: 10px;
-        }
-        .description {
-            font-size: 20px;
-            margin-bottom: 20px;
-            text-align: center;
-        }
-        .content {
-            display: flex;
-            align-items: center;
-            gap: 20px;
-        }
-        .about-me {
-            max-width: 400px;
-        }
-        .about-me p {
-            margin: 10px 0;
-        }
-        .about-me p a {
-            color: #0077B5;
-            text-decoration: none;
-        }
-        .about-me p a:hover {
-            text-decoration: underline;
-        }
-        .about-me p span {
-            font-weight: bold;
-        }
-        .tools {
-            margin-top: 20px;
-        }
-        .tools img {
-            margin: 5px;
-        }
-        .illustration {
-            max-width: 400px;
-        }
-        .illustration img {
-            width: 100%;
-            height: auto;
-        }
-    </style>
 </head>
 <body>
     <div class="header">
